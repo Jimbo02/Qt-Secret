@@ -1,0 +1,17 @@
+release/add_prod.o
+release/authentification.o
+release/edit_prod.o
+release/main.o
+release/mainwindow.o
+release/reg_room.o
+release/winadmin.o
+release/winseller.o
+release/winstorekpr.o
+release/moc_add_prod.o
+release/moc_authentification.o
+release/moc_edit_prod.o
+release/moc_mainwindow.o
+release/moc_reg_room.o
+release/moc_winadmin.o
+release/moc_winseller.o
+release/moc_winstorekpr.o

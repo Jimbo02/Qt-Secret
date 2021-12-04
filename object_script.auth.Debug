@@ -1,0 +1,17 @@
+debug/add_prod.o
+debug/authentification.o
+debug/edit_prod.o
+debug/main.o
+debug/mainwindow.o
+debug/reg_room.o
+debug/winadmin.o
+debug/winseller.o
+debug/winstorekpr.o
+debug/moc_add_prod.o
+debug/moc_authentification.o
+debug/moc_edit_prod.o
+debug/moc_mainwindow.o
+debug/moc_reg_room.o
+debug/moc_winadmin.o
+debug/moc_winseller.o
+debug/moc_winstorekpr.o
